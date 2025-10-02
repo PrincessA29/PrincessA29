@@ -107,13 +107,16 @@ I thrive in collaborative environments where innovation meets practicality, with
 </div>
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-breakout-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
 
 ## 📈 Professional Experience
 
@@ -139,7 +142,7 @@ I thrive in collaborative environments where innovation meets practicality, with
   <tr>
     <td>
       <h3>Google Developer Student Clubs PLM</h3>
-      <p><i>Googler - Cloud Development</i><br>September 2023 - Present</p>
+      <p><i>Noogler</i><br>September 2023 - Present</p>
     </td>
   </tr>
 </table>
